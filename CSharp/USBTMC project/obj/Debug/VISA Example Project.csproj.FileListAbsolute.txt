@@ -1,0 +1,19 @@
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\USBTMC project.exe.config
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\USBTMC project.exe
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\USBTMC project.pdb
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\Ivi.Visa.dll
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\NationalInstruments.Common.xml
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\bin\Debug\Ivi.Visa.xml
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\VISA Example Project.csproj.AssemblyReference.cache
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\USBTMC project.exe.config
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\VISA Example Project.csproj.ResolveComReference.cache
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\VISA_Example.Form1.resources
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\USBTMC_project.Properties.Resources.resources
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\VISA Example Project.csproj.GenerateResource.cache
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\VISA Example Project.csproj.CoreCompileInputs.cache
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\VISA Example Project.csproj.CopyComplete
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\USBTMC project.exe
+C:\Users\ARamirez.BK1\Downloads\USBTMC_CSharp-master\USBTMC_CSharp-master\USBTMC project\obj\Debug\USBTMC project.pdb
